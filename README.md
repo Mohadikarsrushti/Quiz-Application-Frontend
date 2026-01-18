@@ -35,6 +35,8 @@ npm start
 
 ---
 Open http://localhost:3000 in your browser.
+
+---
 ##🔄 How to Use
 -Select an answer
 -Click Next
